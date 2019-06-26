@@ -1,6 +1,8 @@
 # nmapAutomator
 A script that you can run in the background!
-  
+
+<<< cp vulners /usr/share/nmap/scripts/ >>> 
+
   
 # Summary
 I have created this script as I was preparing for my OSCP exam.  
